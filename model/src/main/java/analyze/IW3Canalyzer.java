@@ -1,4 +1,4 @@
-package model.analyze;
+package analyze;
 
 /**
  * Created by faust on 27.11.15.

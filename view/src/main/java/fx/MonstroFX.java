@@ -1,4 +1,4 @@
-package view.fx;/**
+package fx;/**
  * Created by faust on 27.11.15.
  */
 

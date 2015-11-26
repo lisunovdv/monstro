@@ -1,4 +1,4 @@
-package view.console;
+package console;
 
 /**
  * Created by faust on 27.11.15.

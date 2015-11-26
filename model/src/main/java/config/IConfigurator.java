@@ -1,4 +1,4 @@
-package model.config;
+package config;
 
 /**
  * Created by faust on 27.11.15.

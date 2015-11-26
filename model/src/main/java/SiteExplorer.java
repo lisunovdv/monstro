@@ -1,9 +1,5 @@
-package model;
-
-import model.config.IConfigurator;
-import model.report.Reportable;
-
-import java.net.URL;
+import config.IConfigurator;
+import report.Reportable;
 
 
 /**

@@ -1,5 +1,3 @@
-package control;
-
 /**
  * Created by faust on 27.11.15.
  */

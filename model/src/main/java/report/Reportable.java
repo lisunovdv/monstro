@@ -1,4 +1,4 @@
-package model.report;
+package report;
 
 /**
  * Created by faust on 27.11.15.

@@ -1,7 +1,7 @@
-package model.analyze;
+package analyze;
 
-import model.config.IConfigurator;
-import model.report.Reportable;
+import config.IConfigurator;
+import report.Reportable;
 
 /**
  * Created by faust on 27.11.15.
